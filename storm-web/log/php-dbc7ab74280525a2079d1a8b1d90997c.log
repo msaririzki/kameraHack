@@ -1,0 +1,619 @@
+[Sun Sep  8 18:17:12 2024] PHP 8.2.18 Development Server (http://localhost:2525) started
+[Sun Sep  8 18:17:18 2024] [::1]:52736 Accepted
+[Sun Sep  8 18:17:18 2024] [::1]:52736 [200]: POST /receiver.php
+[Sun Sep  8 18:17:18 2024] [::1]:52736 Closing
+[Sun Sep  8 18:17:18 2024] [::1]:52740 Accepted
+[Sun Sep  8 18:17:18 2024] [::1]:52740 [200]: POST /receiver.php
+[Sun Sep  8 18:17:18 2024] [::1]:52740 Closing
+[Sun Sep  8 18:17:20 2024] [::1]:47850 Accepted
+[Sun Sep  8 18:17:20 2024] [::1]:47850 [200]: POST /receiver.php
+[Sun Sep  8 18:17:20 2024] [::1]:47850 Closing
+[Sun Sep  8 18:17:23 2024] [::1]:47864 Accepted
+[Sun Sep  8 18:17:23 2024] [::1]:47864 [200]: POST /receiver.php
+[Sun Sep  8 18:17:23 2024] [::1]:47864 Closing
+[Sun Sep  8 18:18:20 2024] [::1]:38528 Accepted
+[Sun Sep  8 18:18:20 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:18:20 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:18:20 2024] [::1]:38528 [302]: GET /
+[Sun Sep  8 18:18:20 2024] [::1]:38528 Closing
+[Sun Sep  8 18:18:23 2024] [::1]:38530 Accepted
+[Sun Sep  8 18:18:23 2024] [::1]:38530 [200]: POST /receiver.php
+[Sun Sep  8 18:18:23 2024] [::1]:38530 Closing
+[Sun Sep  8 18:18:25 2024] [::1]:38540 Accepted
+[Sun Sep  8 18:18:25 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:18:25 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:18:25 2024] [::1]:38540 [200]: GET /login.php
+[Sun Sep  8 18:18:25 2024] [::1]:38540 Closing
+[Sun Sep  8 18:18:27 2024] [::1]:38552 Accepted
+[Sun Sep  8 18:18:27 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:18:27 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:18:27 2024] [::1]:38552 [302]: GET /
+[Sun Sep  8 18:18:27 2024] [::1]:38552 Closing
+[Sun Sep  8 18:18:31 2024] [::1]:60532 Accepted
+[Sun Sep  8 18:18:31 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:18:31 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:18:31 2024] [::1]:60532 [302]: GET /
+[Sun Sep  8 18:18:31 2024] [::1]:60532 Closing
+[Sun Sep  8 18:18:33 2024] [::1]:60534 Accepted
+[Sun Sep  8 18:18:33 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:18:33 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:18:33 2024] [::1]:60534 [302]: GET /
+[Sun Sep  8 18:18:33 2024] [::1]:60534 Closing
+[Sun Sep  8 18:18:36 2024] [::1]:60548 Accepted
+[Sun Sep  8 18:18:36 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:18:36 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:18:36 2024] [::1]:60548 [200]: GET /login.php
+[Sun Sep  8 18:18:36 2024] [::1]:60548 Closing
+[Sun Sep  8 18:19:03 2024] [::1]:55502 Accepted
+[Sun Sep  8 18:19:03 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:19:03 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:19:03 2024] [::1]:55502 [200]: POST /login.php
+[Sun Sep  8 18:19:03 2024] [::1]:55502 Closing
+[Sun Sep  8 18:19:21 2024] [::1]:53888 Accepted
+[Sun Sep  8 18:19:21 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:19:21 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:19:21 2024] [::1]:53888 [302]: GET /panel.php
+[Sun Sep  8 18:19:21 2024] [::1]:53888 Closing
+[Sun Sep  8 18:19:22 2024] [::1]:53890 Accepted
+[Sun Sep  8 18:19:22 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:19:22 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:19:22 2024] [::1]:53890 [200]: GET /login.php
+[Sun Sep  8 18:19:22 2024] [::1]:53890 Closing
+[Sun Sep  8 18:19:23 2024] [::1]:53898 Accepted
+[Sun Sep  8 18:19:23 2024] [::1]:53898 [200]: POST /receiver.php
+[Sun Sep  8 18:19:23 2024] [::1]:53898 Closing
+[Sun Sep  8 18:19:49 2024] [::1]:47138 Accepted
+[Sun Sep  8 18:19:49 2024] [::1]:47138 [302]: GET /
+[Sun Sep  8 18:19:49 2024] [::1]:47138 Closing
+[Sun Sep  8 18:19:50 2024] [::1]:47140 Accepted
+[Sun Sep  8 18:19:50 2024] [::1]:47140 [200]: GET /login.php
+[Sun Sep  8 18:19:50 2024] [::1]:47140 Closing
+[Sun Sep  8 18:19:50 2024] [::1]:47156 Accepted
+[Sun Sep  8 18:19:50 2024] [::1]:47156 [200]: GET /assets/css/bootstrap.min.css
+[Sun Sep  8 18:19:50 2024] [::1]:47156 Closing
+[Sun Sep  8 18:19:50 2024] [::1]:47168 Accepted
+[Sun Sep  8 18:19:50 2024] [::1]:47168 [200]: GET /assets/css/style.css
+[Sun Sep  8 18:19:50 2024] [::1]:47168 Closing
+[Sun Sep  8 18:20:07 2024] [::1]:39026 Accepted
+[Sun Sep  8 18:20:07 2024] [::1]:39026 [200]: POST /login.php
+[Sun Sep  8 18:20:07 2024] [::1]:39026 Closing
+[Sun Sep  8 18:20:08 2024] [::1]:39038 Accepted
+[Sun Sep  8 18:20:08 2024] [::1]:39038 [200]: GET /panel.php
+[Sun Sep  8 18:20:08 2024] [::1]:39038 Closing
+[Sun Sep  8 18:20:08 2024] [::1]:39040 Accepted
+[Sun Sep  8 18:20:08 2024] [::1]:39040 [200]: GET /assets/css/light-theme.min.css
+[Sun Sep  8 18:20:08 2024] [::1]:39040 Closing
+[Sun Sep  8 18:20:08 2024] [::1]:39054 Accepted
+[Sun Sep  8 18:20:08 2024] [::1]:39054 [200]: GET /assets/js/jquery.min.js
+[Sun Sep  8 18:20:08 2024] [::1]:39054 Closing
+[Sun Sep  8 18:20:08 2024] [::1]:39070 Accepted
+[Sun Sep  8 18:20:08 2024] [::1]:39070 [200]: GET /assets/js/growl-notification.min.js
+[Sun Sep  8 18:20:08 2024] [::1]:39070 Closing
+[Sun Sep  8 18:20:08 2024] [::1]:39072 Accepted
+[Sun Sep  8 18:20:08 2024] [::1]:39072 [200]: GET /assets/js/sweetalert2.min.js
+[Sun Sep  8 18:20:08 2024] [::1]:39072 Closing
+[Sun Sep  8 18:20:08 2024] [::1]:39082 Accepted
+[Sun Sep  8 18:20:08 2024] [::1]:39082 [200]: GET /assets/js/script.js
+[Sun Sep  8 18:20:08 2024] [::1]:39082 Closing
+[Sun Sep  8 18:20:08 2024] [::1]:39088 Accepted
+[Sun Sep  8 18:20:08 2024] [::1]:39088 [200]: GET /Settings.json
+[Sun Sep  8 18:20:08 2024] [::1]:39088 Closing
+[Sun Sep  8 18:20:08 2024] [::1]:39098 Accepted
+[Sun Sep  8 18:20:08 2024] [::1]:39098 [200]: POST /list_templates.php
+[Sun Sep  8 18:20:08 2024] [::1]:39098 Closing
+[Sun Sep  8 18:20:11 2024] [::1]:35906 Accepted
+[Sun Sep  8 18:20:11 2024] [::1]:35906 [200]: POST /receiver.php
+[Sun Sep  8 18:20:11 2024] [::1]:35906 Closing
+[Sun Sep  8 18:20:13 2024] [::1]:35910 Accepted
+[Sun Sep  8 18:20:13 2024] [::1]:35910 [200]: POST /receiver.php
+[Sun Sep  8 18:20:13 2024] [::1]:35910 Closing
+[Sun Sep  8 18:20:15 2024] [::1]:35916 Accepted
+[Sun Sep  8 18:20:15 2024] [::1]:35916 [200]: POST /receiver.php
+[Sun Sep  8 18:20:15 2024] [::1]:35916 Closing
+[Sun Sep  8 18:20:20 2024] [::1]:35920 Accepted
+[Sun Sep  8 18:20:20 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:20 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:20 2024] [::1]:35920 [200]: GET /login.php
+[Sun Sep  8 18:20:20 2024] [::1]:35920 Closing
+[Sun Sep  8 18:20:23 2024] [::1]:59892 Accepted
+[Sun Sep  8 18:20:23 2024] [::1]:59892 [200]: POST /receiver.php
+[Sun Sep  8 18:20:23 2024] [::1]:59892 Closing
+[Sun Sep  8 18:20:30 2024] [::1]:59894 Accepted
+[Sun Sep  8 18:20:30 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:30 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:30 2024] [::1]:59894 [200]: POST /login.php
+[Sun Sep  8 18:20:30 2024] [::1]:59894 Closing
+[Sun Sep  8 18:20:30 2024] [::1]:42132 Accepted
+[Sun Sep  8 18:20:30 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:20:30 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:20:30 2024] [::1]:42132 [302]: GET /panel.php
+[Sun Sep  8 18:20:30 2024] [::1]:42132 Closing
+[Sun Sep  8 18:20:30 2024] [::1]:42140 Accepted
+[Sun Sep  8 18:20:30 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:30 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:30 2024] [::1]:42140 [200]: GET /login.php
+[Sun Sep  8 18:20:30 2024] [::1]:42140 Closing
+[Sun Sep  8 18:20:36 2024] [::1]:42156 Accepted
+[Sun Sep  8 18:20:36 2024] [::1]:42156 [200]: POST /receiver.php
+[Sun Sep  8 18:20:36 2024] [::1]:42156 Closing
+[Sun Sep  8 18:20:36 2024] [::1]:42158 Accepted
+[Sun Sep  8 18:20:36 2024] [::1]:42158 [200]: POST /receiver.php
+[Sun Sep  8 18:20:36 2024] [::1]:42158 Closing
+[Sun Sep  8 18:20:38 2024] [::1]:42160 Accepted
+[Sun Sep  8 18:20:38 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_tgmr6v7j1ubkfcgp3q7smgrbt9, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:20:38 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:20:38 2024] [::1]:42160 [302]: GET /panel.php
+[Sun Sep  8 18:20:38 2024] [::1]:42160 Closing
+[Sun Sep  8 18:20:38 2024] [::1]:42162 Accepted
+[Sun Sep  8 18:20:38 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_tgmr6v7j1ubkfcgp3q7smgrbt9, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:38 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:38 2024] [::1]:42162 [200]: GET /login.php
+[Sun Sep  8 18:20:38 2024] [::1]:42162 Closing
+[Sun Sep  8 18:20:38 2024] [::1]:42168 Accepted
+[Sun Sep  8 18:20:38 2024] [::1]:42168 [200]: GET /assets/css/bootstrap.min.css
+[Sun Sep  8 18:20:38 2024] [::1]:42168 Closing
+[Sun Sep  8 18:20:38 2024] [::1]:42180 Accepted
+[Sun Sep  8 18:20:38 2024] [::1]:42180 [200]: GET /assets/css/style.css
+[Sun Sep  8 18:20:38 2024] [::1]:42180 Closing
+[Sun Sep  8 18:20:45 2024] [::1]:53812 Accepted
+[Sun Sep  8 18:20:45 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_tgmr6v7j1ubkfcgp3q7smgrbt9, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:45 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:45 2024] [::1]:53812 [200]: POST /login.php
+[Sun Sep  8 18:20:45 2024] [::1]:53812 Closing
+[Sun Sep  8 18:20:45 2024] [::1]:53822 Accepted
+[Sun Sep  8 18:20:45 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_tgmr6v7j1ubkfcgp3q7smgrbt9, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:20:45 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:20:45 2024] [::1]:53822 [302]: GET /panel.php
+[Sun Sep  8 18:20:45 2024] [::1]:53822 Closing
+[Sun Sep  8 18:20:45 2024] [::1]:53828 Accepted
+[Sun Sep  8 18:20:45 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_tgmr6v7j1ubkfcgp3q7smgrbt9, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:45 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:20:45 2024] [::1]:53828 [200]: GET /login.php
+[Sun Sep  8 18:20:45 2024] [::1]:53828 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50428 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50438 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50428 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50428 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50450 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50438 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50438 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50458 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50450 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50450 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50458 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50458 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50464 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50476 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50476 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50476 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50464 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50464 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50484 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50492 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50484 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50484 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50492 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50492 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50506 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50508 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50508 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50508 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50506 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50506 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50524 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50536 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50536 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50536 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50524 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50524 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50546 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50550 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50550 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50550 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50546 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50546 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50554 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50564 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50564 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50564 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50554 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50554 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50574 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50588 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50574 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50574 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50588 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50588 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50590 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50590 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50590 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50594 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50594 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50594 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50602 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50610 Accepted
+[Sun Sep  8 18:21:06 2024] [::1]:50610 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50610 Closing
+[Sun Sep  8 18:21:06 2024] [::1]:50602 [200]: POST /receiver.php
+[Sun Sep  8 18:21:06 2024] [::1]:50602 Closing
+[Sun Sep  8 18:21:07 2024] [::1]:50616 Accepted
+[Sun Sep  8 18:21:07 2024] [::1]:50616 [200]: POST /receiver.php
+[Sun Sep  8 18:21:07 2024] [::1]:50616 Closing
+[Sun Sep  8 18:21:09 2024] [::1]:50622 Accepted
+[Sun Sep  8 18:21:09 2024] [::1]:50622 [200]: POST /receiver.php
+[Sun Sep  8 18:21:09 2024] [::1]:50622 Closing
+[Sun Sep  8 18:21:11 2024] [::1]:49926 Accepted
+[Sun Sep  8 18:21:11 2024] [::1]:49926 [200]: POST /receiver.php
+[Sun Sep  8 18:21:11 2024] [::1]:49926 Closing
+[Sun Sep  8 18:21:13 2024] [::1]:49930 Accepted
+[Sun Sep  8 18:21:13 2024] [::1]:49930 [200]: POST /receiver.php
+[Sun Sep  8 18:21:13 2024] [::1]:49930 Closing
+[Sun Sep  8 18:21:15 2024] [::1]:49938 Accepted
+[Sun Sep  8 18:21:15 2024] [::1]:49938 [200]: POST /receiver.php
+[Sun Sep  8 18:21:15 2024] [::1]:49938 Closing
+[Sun Sep  8 18:21:17 2024] [::1]:49944 Accepted
+[Sun Sep  8 18:21:17 2024] [::1]:49944 [200]: POST /receiver.php
+[Sun Sep  8 18:21:17 2024] [::1]:49944 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:49950 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:49950 [302]: GET /
+[Sun Sep  8 18:21:18 2024] [::1]:49950 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:49966 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:49966 [200]: GET /panel.php
+[Sun Sep  8 18:21:18 2024] [::1]:49966 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:49972 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:49976 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:49972 [200]: GET /assets/css/bootstrap.min.css
+[Sun Sep  8 18:21:18 2024] [::1]:49978 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:49976 [200]: GET /assets/css/light-theme.min.css
+[Sun Sep  8 18:21:18 2024] [::1]:49994 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:49978 [200]: GET /assets/js/jquery.min.js
+[Sun Sep  8 18:21:18 2024] [::1]:50010 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:49994 [200]: GET /assets/js/script.js
+[Sun Sep  8 18:21:18 2024] [::1]:50012 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:49972 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:49976 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:50010 [200]: GET /assets/js/sweetalert2.min.js
+[Sun Sep  8 18:21:18 2024] [::1]:49978 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:50012 [200]: GET /assets/js/growl-notification.min.js
+[Sun Sep  8 18:21:18 2024] [::1]:49994 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:50010 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:50012 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:50022 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:50022 [200]: GET /Settings.json
+[Sun Sep  8 18:21:18 2024] [::1]:50022 Closing
+[Sun Sep  8 18:21:18 2024] [::1]:50034 Accepted
+[Sun Sep  8 18:21:18 2024] [::1]:50034 [200]: POST /list_templates.php
+[Sun Sep  8 18:21:18 2024] [::1]:50034 Closing
+[Sun Sep  8 18:21:19 2024] [::1]:50044 Accepted
+[Sun Sep  8 18:21:19 2024] [::1]:50044 [200]: POST /receiver.php
+[Sun Sep  8 18:21:19 2024] [::1]:50044 Closing
+[Sun Sep  8 18:21:21 2024] [::1]:35380 Accepted
+[Sun Sep  8 18:21:21 2024] [::1]:35380 [200]: POST /receiver.php
+[Sun Sep  8 18:21:21 2024] [::1]:35380 Closing
+[Sun Sep  8 18:21:21 2024] [::1]:35388 Accepted
+[Sun Sep  8 18:21:21 2024] [::1]:35388 [200]: POST /receiver.php
+[Sun Sep  8 18:21:21 2024] [::1]:35388 Closing
+[Sun Sep  8 18:21:23 2024] [::1]:35390 Accepted
+[Sun Sep  8 18:21:23 2024] [::1]:35390 [200]: POST /receiver.php
+[Sun Sep  8 18:21:23 2024] [::1]:35390 Closing
+[Sun Sep  8 18:21:23 2024] [::1]:35406 Accepted
+[Sun Sep  8 18:21:23 2024] [::1]:35406 [200]: POST /receiver.php
+[Sun Sep  8 18:21:23 2024] [::1]:35406 Closing
+[Sun Sep  8 18:21:25 2024] [::1]:35418 Accepted
+[Sun Sep  8 18:21:25 2024] [::1]:35418 [200]: POST /receiver.php
+[Sun Sep  8 18:21:25 2024] [::1]:35418 Closing
+[Sun Sep  8 18:21:25 2024] [::1]:35422 Accepted
+[Sun Sep  8 18:21:25 2024] [::1]:35422 [200]: POST /receiver.php
+[Sun Sep  8 18:21:25 2024] [::1]:35422 Closing
+[Sun Sep  8 18:21:27 2024] [::1]:35432 Accepted
+[Sun Sep  8 18:21:27 2024] [::1]:35432 [200]: POST /receiver.php
+[Sun Sep  8 18:21:27 2024] [::1]:35432 Closing
+[Sun Sep  8 18:21:28 2024] [::1]:35442 Accepted
+[Sun Sep  8 18:21:28 2024] [::1]:35442 [200]: POST /receiver.php
+[Sun Sep  8 18:21:28 2024] [::1]:35442 Closing
+[Sun Sep  8 18:21:29 2024] [::1]:35446 Accepted
+[Sun Sep  8 18:21:29 2024] [::1]:35446 [200]: POST /receiver.php
+[Sun Sep  8 18:21:29 2024] [::1]:35446 Closing
+[Sun Sep  8 18:21:30 2024] [::1]:35448 Accepted
+[Sun Sep  8 18:21:30 2024] [::1]:35448 [200]: POST /receiver.php
+[Sun Sep  8 18:21:30 2024] [::1]:35448 Closing
+[Sun Sep  8 18:21:31 2024] [::1]:42994 Accepted
+[Sun Sep  8 18:21:31 2024] [::1]:42994 [200]: GET /iky/camera_temp/index.html
+[Sun Sep  8 18:21:31 2024] [::1]:42994 Closing
+[Sun Sep  8 18:21:31 2024] [::1]:43008 Accepted
+[Sun Sep  8 18:21:31 2024] [::1]:43008 [200]: POST /receiver.php
+[Sun Sep  8 18:21:31 2024] [::1]:43008 Closing
+[Sun Sep  8 18:21:31 2024] [::1]:43018 Accepted
+[Sun Sep  8 18:21:31 2024] [::1]:43024 Accepted
+[Sun Sep  8 18:21:31 2024] [::1]:43018 [200]: GET /assets/js/client.min.js
+[Sun Sep  8 18:21:31 2024] [::1]:43026 Accepted
+[Sun Sep  8 18:21:31 2024] [::1]:43024 [200]: GET /iky/camera_temp/all.css
+[Sun Sep  8 18:21:31 2024] [::1]:43026 [200]: GET /iky/camera_temp/style.css
+[Sun Sep  8 18:21:31 2024] [::1]:43018 Closing
+[Sun Sep  8 18:21:31 2024] [::1]:43040 Accepted
+[Sun Sep  8 18:21:31 2024] [::1]:43024 Closing
+[Sun Sep  8 18:21:31 2024] [::1]:43026 Closing
+[Sun Sep  8 18:21:31 2024] [::1]:43040 [200]: GET /assets/js/loc.js
+[Sun Sep  8 18:21:31 2024] [::1]:43040 Closing
+[Sun Sep  8 18:21:32 2024] [::1]:43054 Accepted
+[Sun Sep  8 18:21:32 2024] [::1]:43054 [404]: GET /iky/webfonts/fa-solid-900.woff2 - No such file or directory
+[Sun Sep  8 18:21:32 2024] [::1]:43054 Closing
+[Sun Sep  8 18:21:32 2024] [::1]:43068 Accepted
+[Sun Sep  8 18:21:32 2024] [::1]:43068 [200]: POST /receiver.php
+[Sun Sep  8 18:21:32 2024] [::1]:43068 Closing
+[Sun Sep  8 18:21:32 2024] [::1]:43080 Accepted
+[Sun Sep  8 18:21:32 2024] [::1]:43080 [404]: GET /iky/webfonts/fa-solid-900.woff - No such file or directory
+[Sun Sep  8 18:21:32 2024] [::1]:43080 Closing
+[Sun Sep  8 18:21:32 2024] [::1]:43090 Accepted
+[Sun Sep  8 18:21:32 2024] [::1]:43090 [404]: GET /iky/webfonts/fa-solid-900.ttf - No such file or directory
+[Sun Sep  8 18:21:32 2024] [::1]:43090 Closing
+[Sun Sep  8 18:21:33 2024] [::1]:43096 Accepted
+[Sun Sep  8 18:21:33 2024] [::1]:43096 [200]: POST /receiver.php
+[Sun Sep  8 18:21:33 2024] [::1]:43096 Closing
+[Sun Sep  8 18:21:33 2024] [::1]:43110 Accepted
+[Sun Sep  8 18:21:33 2024] [::1]:43110 [200]: POST /iky/camera_temp/handler.php
+[Sun Sep  8 18:21:33 2024] [::1]:43110 Closing
+[Sun Sep  8 18:21:34 2024] [::1]:43120 Accepted
+[Sun Sep  8 18:21:34 2024] [::1]:43120 [200]: POST /receiver.php
+[Sun Sep  8 18:21:34 2024] [::1]:43120 Closing
+[Sun Sep  8 18:21:35 2024] [::1]:43128 Accepted
+[Sun Sep  8 18:21:35 2024] [::1]:43128 [200]: POST /receiver.php
+[Sun Sep  8 18:21:35 2024] [::1]:43128 Closing
+[Sun Sep  8 18:21:36 2024] [::1]:43144 Accepted
+[Sun Sep  8 18:21:36 2024] [::1]:43144 [200]: POST /receiver.php
+[Sun Sep  8 18:21:36 2024] [::1]:43144 Closing
+[Sun Sep  8 18:21:37 2024] [::1]:43146 Accepted
+[Sun Sep  8 18:21:37 2024] [::1]:43146 [200]: POST /receiver.php
+[Sun Sep  8 18:21:37 2024] [::1]:43146 Closing
+[Sun Sep  8 18:21:38 2024] [::1]:43148 Accepted
+[Sun Sep  8 18:21:38 2024] [::1]:43148 [200]: POST /receiver.php
+[Sun Sep  8 18:21:38 2024] [::1]:43148 Closing
+[Sun Sep  8 18:21:39 2024] [::1]:43160 Accepted
+[Sun Sep  8 18:21:39 2024] [::1]:43160 [200]: POST /receiver.php
+[Sun Sep  8 18:21:39 2024] [::1]:43160 Closing
+[Sun Sep  8 18:21:40 2024] [::1]:43162 Accepted
+[Sun Sep  8 18:21:40 2024] [::1]:43162 [200]: POST /receiver.php
+[Sun Sep  8 18:21:40 2024] [::1]:43162 Closing
+[Sun Sep  8 18:21:41 2024] [::1]:38300 Accepted
+[Sun Sep  8 18:21:41 2024] [::1]:38300 [200]: POST /receiver.php
+[Sun Sep  8 18:21:41 2024] [::1]:38300 Closing
+[Sun Sep  8 18:21:42 2024] [::1]:38316 Accepted
+[Sun Sep  8 18:21:42 2024] [::1]:38316 [200]: POST /receiver.php
+[Sun Sep  8 18:21:42 2024] [::1]:38316 Closing
+[Sun Sep  8 18:21:43 2024] [::1]:38324 Accepted
+[Sun Sep  8 18:21:43 2024] [::1]:38324 [200]: POST /iky/camera_temp/post.php
+[Sun Sep  8 18:21:43 2024] [::1]:38324 Closing
+[Sun Sep  8 18:21:43 2024] [::1]:38330 Accepted
+[Sun Sep  8 18:21:43 2024] [::1]:38330 [200]: POST /receiver.php
+[Sun Sep  8 18:21:43 2024] [::1]:38330 Closing
+[Sun Sep  8 18:21:44 2024] [::1]:38342 Accepted
+[Sun Sep  8 18:21:44 2024] [::1]:38342 [200]: POST /receiver.php
+[Sun Sep  8 18:21:44 2024] [::1]:38342 Closing
+[Sun Sep  8 18:21:45 2024] [::1]:38346 Accepted
+[Sun Sep  8 18:21:45 2024] [::1]:38346 [200]: POST /receiver.php
+[Sun Sep  8 18:21:45 2024] [::1]:38346 Closing
+[Sun Sep  8 18:21:46 2024] [::1]:38360 Accepted
+[Sun Sep  8 18:21:46 2024] [::1]:38360 [200]: POST /receiver.php
+[Sun Sep  8 18:21:46 2024] [::1]:38360 Closing
+[Sun Sep  8 18:21:47 2024] [::1]:38368 Accepted
+[Sun Sep  8 18:21:47 2024] [::1]:38368 [200]: POST /receiver.php
+[Sun Sep  8 18:21:47 2024] [::1]:38368 Closing
+[Sun Sep  8 18:21:48 2024] [::1]:38374 Accepted
+[Sun Sep  8 18:21:48 2024] [::1]:38374 [200]: POST /receiver.php
+[Sun Sep  8 18:21:48 2024] [::1]:38374 Closing
+[Sun Sep  8 18:21:49 2024] [::1]:38380 Accepted
+[Sun Sep  8 18:21:49 2024] [::1]:38380 [200]: POST /receiver.php
+[Sun Sep  8 18:21:49 2024] [::1]:38380 Closing
+[Sun Sep  8 18:21:49 2024] [::1]:38394 Accepted
+[Sun Sep  8 18:21:49 2024] [::1]:38394 [200]: POST /receiver.php
+[Sun Sep  8 18:21:49 2024] [::1]:38394 Closing
+[Sun Sep  8 18:21:51 2024] [::1]:32826 Accepted
+[Sun Sep  8 18:21:51 2024] [::1]:32826 [200]: POST /receiver.php
+[Sun Sep  8 18:21:51 2024] [::1]:32826 Closing
+[Sun Sep  8 18:21:52 2024] [::1]:32842 Accepted
+[Sun Sep  8 18:21:52 2024] [::1]:32842 [200]: POST /iky/camera_temp/post.php
+[Sun Sep  8 18:21:52 2024] [::1]:32842 Closing
+[Sun Sep  8 18:21:52 2024] [::1]:32850 Accepted
+[Sun Sep  8 18:21:52 2024] [::1]:32850 [200]: POST /receiver.php
+[Sun Sep  8 18:21:52 2024] [::1]:32850 Closing
+[Sun Sep  8 18:21:53 2024] [::1]:32862 Accepted
+[Sun Sep  8 18:21:53 2024] [::1]:32862 [200]: POST /receiver.php
+[Sun Sep  8 18:21:53 2024] [::1]:32862 Closing
+[Sun Sep  8 18:21:54 2024] [::1]:32864 Accepted
+[Sun Sep  8 18:21:54 2024] [::1]:32864 [200]: POST /receiver.php
+[Sun Sep  8 18:21:54 2024] [::1]:32864 Closing
+[Sun Sep  8 18:21:55 2024] [::1]:32870 Accepted
+[Sun Sep  8 18:21:55 2024] [::1]:32870 [200]: POST /receiver.php
+[Sun Sep  8 18:21:55 2024] [::1]:32870 Closing
+[Sun Sep  8 18:21:56 2024] [::1]:32880 Accepted
+[Sun Sep  8 18:21:56 2024] [::1]:32880 [200]: POST /receiver.php
+[Sun Sep  8 18:21:56 2024] [::1]:32880 Closing
+[Sun Sep  8 18:21:57 2024] [::1]:32896 Accepted
+[Sun Sep  8 18:21:57 2024] [::1]:32896 [200]: POST /receiver.php
+[Sun Sep  8 18:21:57 2024] [::1]:32896 Closing
+[Sun Sep  8 18:21:58 2024] [::1]:32902 Accepted
+[Sun Sep  8 18:21:58 2024] [::1]:32902 [200]: POST /receiver.php
+[Sun Sep  8 18:21:58 2024] [::1]:32902 Closing
+[Sun Sep  8 18:21:59 2024] [::1]:32916 Accepted
+[Sun Sep  8 18:21:59 2024] [::1]:32916 [200]: POST /receiver.php
+[Sun Sep  8 18:21:59 2024] [::1]:32916 Closing
+[Sun Sep  8 18:22:00 2024] [::1]:32926 Accepted
+[Sun Sep  8 18:22:00 2024] [::1]:32926 [200]: POST /receiver.php
+[Sun Sep  8 18:22:00 2024] [::1]:32926 Closing
+[Sun Sep  8 18:22:00 2024] [::1]:45376 Accepted
+[Sun Sep  8 18:22:01 2024] [::1]:45376 [200]: POST /iky/camera_temp/post.php
+[Sun Sep  8 18:22:01 2024] [::1]:45376 Closing
+[Sun Sep  8 18:22:01 2024] [::1]:45386 Accepted
+[Sun Sep  8 18:22:01 2024] [::1]:45386 [200]: POST /receiver.php
+[Sun Sep  8 18:22:01 2024] [::1]:45386 Closing
+[Sun Sep  8 18:22:02 2024] [::1]:45398 Accepted
+[Sun Sep  8 18:22:02 2024] [::1]:45398 [200]: POST /receiver.php
+[Sun Sep  8 18:22:02 2024] [::1]:45398 Closing
+[Sun Sep  8 18:22:03 2024] [::1]:45414 Accepted
+[Sun Sep  8 18:22:03 2024] [::1]:45414 [200]: POST /receiver.php
+[Sun Sep  8 18:22:03 2024] [::1]:45414 Closing
+[Sun Sep  8 18:22:04 2024] [::1]:45418 Accepted
+[Sun Sep  8 18:22:04 2024] [::1]:45418 [200]: POST /receiver.php
+[Sun Sep  8 18:22:04 2024] [::1]:45418 Closing
+[Sun Sep  8 18:22:05 2024] [::1]:45422 Accepted
+[Sun Sep  8 18:22:05 2024] [::1]:45422 [200]: POST /receiver.php
+[Sun Sep  8 18:22:05 2024] [::1]:45422 Closing
+[Sun Sep  8 18:22:06 2024] [::1]:45430 Accepted
+[Sun Sep  8 18:22:06 2024] [::1]:45430 [200]: POST /receiver.php
+[Sun Sep  8 18:22:06 2024] [::1]:45430 Closing
+[Sun Sep  8 18:22:07 2024] [::1]:45442 Accepted
+[Sun Sep  8 18:22:07 2024] [::1]:45442 [200]: POST /receiver.php
+[Sun Sep  8 18:22:07 2024] [::1]:45442 Closing
+[Sun Sep  8 18:22:08 2024] [::1]:45448 Accepted
+[Sun Sep  8 18:22:08 2024] [::1]:45448 [200]: POST /receiver.php
+[Sun Sep  8 18:22:08 2024] [::1]:45448 Closing
+[Sun Sep  8 18:22:09 2024] [::1]:45450 Accepted
+[Sun Sep  8 18:22:09 2024] [::1]:45450 [200]: POST /receiver.php
+[Sun Sep  8 18:22:09 2024] [::1]:45450 Closing
+[Sun Sep  8 18:22:09 2024] [::1]:45466 Accepted
+[Sun Sep  8 18:22:10 2024] [::1]:45466 [200]: POST /iky/camera_temp/post.php
+[Sun Sep  8 18:22:10 2024] [::1]:45466 Closing
+[Sun Sep  8 18:22:10 2024] [::1]:45478 Accepted
+[Sun Sep  8 18:22:10 2024] [::1]:45478 [200]: POST /receiver.php
+[Sun Sep  8 18:22:10 2024] [::1]:45478 Closing
+[Sun Sep  8 18:22:11 2024] [::1]:44656 Accepted
+[Sun Sep  8 18:22:11 2024] [::1]:44656 [200]: POST /receiver.php
+[Sun Sep  8 18:22:11 2024] [::1]:44656 Closing
+[Sun Sep  8 18:22:12 2024] [::1]:44670 Accepted
+[Sun Sep  8 18:22:12 2024] [::1]:44670 [200]: POST /receiver.php
+[Sun Sep  8 18:22:12 2024] [::1]:44670 Closing
+[Sun Sep  8 18:22:13 2024] [::1]:44682 Accepted
+[Sun Sep  8 18:22:13 2024] [::1]:44682 [200]: POST /receiver.php
+[Sun Sep  8 18:22:13 2024] [::1]:44682 Closing
+[Sun Sep  8 18:22:14 2024] [::1]:44698 Accepted
+[Sun Sep  8 18:22:14 2024] [::1]:44698 [200]: POST /receiver.php
+[Sun Sep  8 18:22:14 2024] [::1]:44698 Closing
+[Sun Sep  8 18:22:15 2024] [::1]:44714 Accepted
+[Sun Sep  8 18:22:15 2024] [::1]:44714 [200]: POST /receiver.php
+[Sun Sep  8 18:22:15 2024] [::1]:44714 Closing
+[Sun Sep  8 18:22:16 2024] [::1]:44722 Accepted
+[Sun Sep  8 18:22:16 2024] [::1]:44722 [200]: POST /receiver.php
+[Sun Sep  8 18:22:16 2024] [::1]:44722 Closing
+[Sun Sep  8 18:22:17 2024] [::1]:44734 Accepted
+[Sun Sep  8 18:22:17 2024] [::1]:44734 [200]: POST /receiver.php
+[Sun Sep  8 18:22:17 2024] [::1]:44734 Closing
+[Sun Sep  8 18:22:17 2024] [::1]:44746 Accepted
+[Sun Sep  8 18:22:17 2024] [::1]:44746 [200]: POST /receiver.php
+[Sun Sep  8 18:22:17 2024] [::1]:44746 Closing
+[Sun Sep  8 18:22:19 2024] [::1]:44754 Accepted
+[Sun Sep  8 18:22:19 2024] [::1]:44766 Accepted
+[Sun Sep  8 18:22:19 2024] [::1]:44766 [200]: POST /receiver.php
+[Sun Sep  8 18:22:19 2024] [::1]:44766 Closing
+[Sun Sep  8 18:22:19 2024] [::1]:44754 [200]: POST /iky/camera_temp/post.php
+[Sun Sep  8 18:22:19 2024] [::1]:44754 Closing
+[Sun Sep  8 18:22:19 2024] [::1]:44778 Accepted
+[Sun Sep  8 18:22:19 2024] [::1]:44778 [200]: POST /receiver.php
+[Sun Sep  8 18:22:19 2024] [::1]:44778 Closing
+[Sun Sep  8 18:22:21 2024] [::1]:42454 Accepted
+[Sun Sep  8 18:22:21 2024] [::1]:42454 [200]: POST /receiver.php
+[Sun Sep  8 18:22:21 2024] [::1]:42454 Closing
+[Sun Sep  8 18:22:21 2024] [::1]:42458 Accepted
+[Sun Sep  8 18:22:21 2024] [::1]:42458 [200]: POST /receiver.php
+[Sun Sep  8 18:22:21 2024] [::1]:42458 Closing
+[Sun Sep  8 18:22:23 2024] [::1]:42470 Accepted
+[Sun Sep  8 18:22:23 2024] [::1]:42470 [200]: POST /receiver.php
+[Sun Sep  8 18:22:23 2024] [::1]:42470 Closing
+[Sun Sep  8 18:22:23 2024] [::1]:42486 Accepted
+[Sun Sep  8 18:22:23 2024] [::1]:42486 [200]: POST /receiver.php
+[Sun Sep  8 18:22:23 2024] [::1]:42486 Closing
+[Sun Sep  8 18:22:25 2024] [::1]:42494 Accepted
+[Sun Sep  8 18:22:25 2024] [::1]:42494 [200]: POST /receiver.php
+[Sun Sep  8 18:22:25 2024] [::1]:42494 Closing
+[Sun Sep  8 18:22:25 2024] [::1]:42496 Accepted
+[Sun Sep  8 18:22:25 2024] [::1]:42496 [200]: POST /receiver.php
+[Sun Sep  8 18:22:25 2024] [::1]:42496 Closing
+[Sun Sep  8 18:22:27 2024] [::1]:42510 Accepted
+[Sun Sep  8 18:22:27 2024] [::1]:42510 [200]: POST /receiver.php
+[Sun Sep  8 18:22:27 2024] [::1]:42510 Closing
+[Sun Sep  8 18:22:27 2024] [::1]:42514 Accepted
+[Sun Sep  8 18:22:27 2024] [::1]:42514 [200]: POST /receiver.php
+[Sun Sep  8 18:22:27 2024] [::1]:42514 Closing
+[Sun Sep  8 18:22:29 2024] [::1]:42526 Accepted
+[Sun Sep  8 18:22:29 2024] [::1]:42526 [200]: POST /receiver.php
+[Sun Sep  8 18:22:29 2024] [::1]:42526 Closing
+[Sun Sep  8 18:22:29 2024] [::1]:42534 Accepted
+[Sun Sep  8 18:22:29 2024] [::1]:42534 [200]: POST /receiver.php
+[Sun Sep  8 18:22:29 2024] [::1]:42534 Closing
+[Sun Sep  8 18:22:31 2024] [::1]:51790 Accepted
+[Sun Sep  8 18:22:31 2024] [::1]:51790 [200]: POST /receiver.php
+[Sun Sep  8 18:22:31 2024] [::1]:51790 Closing
+[Sun Sep  8 18:22:31 2024] [::1]:51798 Accepted
+[Sun Sep  8 18:22:31 2024] [::1]:51798 [200]: POST /receiver.php
+[Sun Sep  8 18:22:31 2024] [::1]:51798 Closing
+[Sun Sep  8 18:22:33 2024] [::1]:51806 Accepted
+[Sun Sep  8 18:22:33 2024] [::1]:51806 [200]: POST /receiver.php
+[Sun Sep  8 18:22:33 2024] [::1]:51806 Closing
+[Sun Sep  8 18:22:33 2024] [::1]:51818 Accepted
+[Sun Sep  8 18:22:33 2024] [::1]:51818 [200]: POST /receiver.php
+[Sun Sep  8 18:22:33 2024] [::1]:51818 Closing
+[Sun Sep  8 18:22:35 2024] [::1]:51832 Accepted
+[Sun Sep  8 18:22:35 2024] [::1]:51832 [200]: POST /receiver.php
+[Sun Sep  8 18:22:35 2024] [::1]:51832 Closing
+[Sun Sep  8 18:22:35 2024] [::1]:51836 Accepted
+[Sun Sep  8 18:22:35 2024] [::1]:51836 [200]: POST /receiver.php
+[Sun Sep  8 18:22:35 2024] [::1]:51836 Closing
+[Sun Sep  8 18:22:37 2024] [::1]:51842 Accepted
+[Sun Sep  8 18:22:37 2024] [::1]:51842 [200]: POST /receiver.php
+[Sun Sep  8 18:22:37 2024] [::1]:51842 Closing
+[Sun Sep  8 18:22:37 2024] [::1]:51844 Accepted
+[Sun Sep  8 18:22:37 2024] [::1]:51844 [200]: POST /receiver.php
+[Sun Sep  8 18:22:37 2024] [::1]:51844 Closing
+[Sun Sep  8 18:22:39 2024] [::1]:51854 Accepted
+[Sun Sep  8 18:22:39 2024] [::1]:51854 [200]: POST /receiver.php
+[Sun Sep  8 18:22:39 2024] [::1]:51854 Closing
+[Sun Sep  8 18:22:39 2024] [::1]:51864 Accepted
+[Sun Sep  8 18:22:39 2024] [::1]:51864 [200]: POST /receiver.php
+[Sun Sep  8 18:22:39 2024] [::1]:51864 Closing
+[Sun Sep  8 18:22:41 2024] [::1]:36160 Accepted
+[Sun Sep  8 18:22:41 2024] [::1]:36160 [200]: POST /receiver.php
+[Sun Sep  8 18:22:41 2024] [::1]:36160 Closing
+[Sun Sep  8 18:22:41 2024] [::1]:36168 Accepted
+[Sun Sep  8 18:22:41 2024] [::1]:36168 [200]: POST /receiver.php
+[Sun Sep  8 18:22:41 2024] [::1]:36168 Closing
+[Sun Sep  8 18:22:43 2024] [::1]:36174 Accepted
+[Sun Sep  8 18:22:43 2024] [::1]:36174 [200]: POST /receiver.php
+[Sun Sep  8 18:22:43 2024] [::1]:36174 Closing
+[Sun Sep  8 18:22:43 2024] [::1]:36182 Accepted
+[Sun Sep  8 18:22:43 2024] [::1]:36182 [200]: POST /receiver.php
+[Sun Sep  8 18:22:43 2024] [::1]:36182 Closing
+[Sun Sep  8 18:22:45 2024] [::1]:36196 Accepted
+[Sun Sep  8 18:22:45 2024] [::1]:36196 [200]: POST /receiver.php
+[Sun Sep  8 18:22:45 2024] [::1]:36196 Closing
+[Sun Sep  8 18:22:45 2024] [::1]:36206 Accepted
+[Sun Sep  8 18:22:45 2024] [::1]:36206 [200]: POST /receiver.php
+[Sun Sep  8 18:22:45 2024] [::1]:36206 Closing
+[Sun Sep  8 18:22:47 2024] [::1]:36222 Accepted
+[Sun Sep  8 18:22:47 2024] [::1]:36222 [200]: POST /receiver.php
+[Sun Sep  8 18:22:47 2024] [::1]:36222 Closing
+[Sun Sep  8 18:22:49 2024] [::1]:36228 Accepted
+[Sun Sep  8 18:22:49 2024] [::1]:36228 [200]: POST /receiver.php
+[Sun Sep  8 18:22:49 2024] [::1]:36228 Closing
+[Sun Sep  8 18:22:51 2024] [::1]:33118 Accepted
+[Sun Sep  8 18:22:51 2024] [::1]:33118 [200]: POST /receiver.php
+[Sun Sep  8 18:22:51 2024] [::1]:33118 Closing
+[Sun Sep  8 18:22:53 2024] [::1]:33128 Accepted
+[Sun Sep  8 18:22:53 2024] [::1]:33128 [200]: POST /receiver.php
+[Sun Sep  8 18:22:53 2024] [::1]:33128 Closing
+[Sun Sep  8 18:22:55 2024] [::1]:33138 Accepted
+[Sun Sep  8 18:22:55 2024] [::1]:33138 [200]: POST /receiver.php
+[Sun Sep  8 18:22:55 2024] [::1]:33138 Closing
+[Sun Sep  8 18:22:57 2024] [::1]:33154 Accepted
+[Sun Sep  8 18:22:57 2024] [::1]:33154 [200]: POST /receiver.php
+[Sun Sep  8 18:22:57 2024] [::1]:33154 Closing
+[Sun Sep  8 18:22:59 2024] [::1]:33160 Accepted
+[Sun Sep  8 18:22:59 2024] [::1]:33160 [200]: POST /receiver.php
+[Sun Sep  8 18:22:59 2024] [::1]:33160 Closing
+[Sun Sep  8 18:23:01 2024] [::1]:33710 Accepted
+[Sun Sep  8 18:23:01 2024] [::1]:33710 [200]: POST /receiver.php
+[Sun Sep  8 18:23:01 2024] [::1]:33710 Closing
+[Sun Sep  8 18:23:03 2024] [::1]:33724 Accepted
+[Sun Sep  8 18:23:03 2024] [::1]:33724 [200]: POST /receiver.php
+[Sun Sep  8 18:23:03 2024] [::1]:33724 Closing
+[Sun Sep  8 18:23:05 2024] [::1]:33736 Accepted
+[Sun Sep  8 18:23:05 2024] [::1]:33736 [200]: POST /receiver.php
+[Sun Sep  8 18:23:05 2024] [::1]:33736 Closing

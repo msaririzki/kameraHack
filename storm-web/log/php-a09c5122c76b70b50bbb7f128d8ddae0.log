@@ -1,0 +1,274 @@
+[Sun Sep  8 18:15:16 2024] PHP 8.2.18 Development Server (http://localhost:2525) started
+[Sun Sep  8 18:15:21 2024] [::1]:34448 Accepted
+[Sun Sep  8 18:15:21 2024] [::1]:34448 [302]: GET /
+[Sun Sep  8 18:15:21 2024] [::1]:34448 Closing
+[Sun Sep  8 18:15:21 2024] [::1]:34454 Accepted
+[Sun Sep  8 18:15:21 2024] [::1]:34454 [200]: GET /login.php
+[Sun Sep  8 18:15:21 2024] [::1]:34454 Closing
+[Sun Sep  8 18:15:21 2024] [::1]:34462 Accepted
+[Sun Sep  8 18:15:21 2024] [::1]:34466 Accepted
+[Sun Sep  8 18:15:21 2024] [::1]:34462 [200]: GET /assets/css/bootstrap.min.css
+[Sun Sep  8 18:15:21 2024] [::1]:34462 Closing
+[Sun Sep  8 18:15:21 2024] [::1]:34466 [200]: GET /assets/css/style.css
+[Sun Sep  8 18:15:21 2024] [::1]:34466 Closing
+[Sun Sep  8 18:15:23 2024] [::1]:34474 Accepted
+[Sun Sep  8 18:15:23 2024] [::1]:34474 [200]: POST /receiver.php
+[Sun Sep  8 18:15:23 2024] [::1]:34474 Closing
+[Sun Sep  8 18:15:23 2024] [::1]:34478 Accepted
+[Sun Sep  8 18:15:23 2024] [::1]:34478 [200]: POST /receiver.php
+[Sun Sep  8 18:15:23 2024] [::1]:34478 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41012 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41012 [200]: POST /login.php
+[Sun Sep  8 18:15:33 2024] [::1]:41012 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41020 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41022 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41020 [200]: GET /assets/css/bootstrap.min.css
+[Sun Sep  8 18:15:33 2024] [::1]:41020 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41022 [200]: GET /assets/css/style.css
+[Sun Sep  8 18:15:33 2024] [::1]:41022 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41024 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41024 [200]: GET /panel.php
+[Sun Sep  8 18:15:33 2024] [::1]:41024 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41032 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41032 [200]: GET /assets/css/bootstrap.min.css
+[Sun Sep  8 18:15:33 2024] [::1]:41032 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41034 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41048 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41058 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41060 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41072 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41034 [200]: GET /assets/css/light-theme.min.css
+[Sun Sep  8 18:15:33 2024] [::1]:41048 [200]: GET /assets/js/jquery.min.js
+[Sun Sep  8 18:15:33 2024] [::1]:41058 [200]: GET /assets/js/script.js
+[Sun Sep  8 18:15:33 2024] [::1]:41060 [200]: GET /assets/js/sweetalert2.min.js
+[Sun Sep  8 18:15:33 2024] [::1]:41072 [200]: GET /assets/js/growl-notification.min.js
+[Sun Sep  8 18:15:33 2024] [::1]:41034 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41048 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41058 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41060 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41072 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41076 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41076 [200]: GET /Settings.json
+[Sun Sep  8 18:15:33 2024] [::1]:41076 Closing
+[Sun Sep  8 18:15:33 2024] [::1]:41078 Accepted
+[Sun Sep  8 18:15:33 2024] [::1]:41078 [200]: POST /list_templates.php
+[Sun Sep  8 18:15:33 2024] [::1]:41078 Closing
+[Sun Sep  8 18:15:36 2024] [::1]:41082 Accepted
+[Sun Sep  8 18:15:36 2024] [::1]:41082 [200]: POST /receiver.php
+[Sun Sep  8 18:15:36 2024] [::1]:41082 Closing
+[Sun Sep  8 18:15:38 2024] [::1]:41098 Accepted
+[Sun Sep  8 18:15:38 2024] [::1]:41098 [200]: POST /receiver.php
+[Sun Sep  8 18:15:38 2024] [::1]:41098 Closing
+[Sun Sep  8 18:15:40 2024] [::1]:41106 Accepted
+[Sun Sep  8 18:15:40 2024] [::1]:41106 [200]: POST /receiver.php
+[Sun Sep  8 18:15:40 2024] [::1]:41106 Closing
+[Sun Sep  8 18:15:42 2024] [::1]:58004 Accepted
+[Sun Sep  8 18:15:42 2024] [::1]:58004 [200]: POST /receiver.php
+[Sun Sep  8 18:15:42 2024] [::1]:58004 Closing
+[Sun Sep  8 18:15:44 2024] [::1]:58020 Accepted
+[Sun Sep  8 18:15:44 2024] [::1]:58020 [200]: POST /receiver.php
+[Sun Sep  8 18:15:44 2024] [::1]:58020 Closing
+[Sun Sep  8 18:15:44 2024] [::1]:58030 Accepted
+[Sun Sep  8 18:15:44 2024] [::1]:58030 [200]: GET /iky/camera_temp/index.html
+[Sun Sep  8 18:15:44 2024] [::1]:58030 Closing
+[Sun Sep  8 18:15:44 2024] [::1]:58044 Accepted
+[Sun Sep  8 18:15:44 2024] [::1]:58044 [200]: GET /assets/js/jquery.min.js
+[Sun Sep  8 18:15:44 2024] [::1]:58044 Closing
+[Sun Sep  8 18:15:44 2024] [::1]:58050 Accepted
+[Sun Sep  8 18:15:44 2024] [::1]:58062 Accepted
+[Sun Sep  8 18:15:44 2024] [::1]:58074 Accepted
+[Sun Sep  8 18:15:44 2024] [::1]:58076 Accepted
+[Sun Sep  8 18:15:44 2024] [::1]:58050 [200]: GET /iky/camera_temp/style.css
+[Sun Sep  8 18:15:44 2024] [::1]:58050 Closing
+[Sun Sep  8 18:15:44 2024] [::1]:58062 [200]: GET /iky/camera_temp/all.css
+[Sun Sep  8 18:15:44 2024] [::1]:58074 [200]: GET /assets/js/client.min.js
+[Sun Sep  8 18:15:44 2024] [::1]:58076 [200]: GET /assets/js/loc.js
+[Sun Sep  8 18:15:44 2024] [::1]:58062 Closing
+[Sun Sep  8 18:15:44 2024] [::1]:58074 Closing
+[Sun Sep  8 18:15:44 2024] [::1]:58076 Closing
+[Sun Sep  8 18:15:45 2024] [::1]:58092 Accepted
+[Sun Sep  8 18:15:45 2024] [::1]:58092 [404]: GET /iky/webfonts/fa-solid-900.woff2 - No such file or directory
+[Sun Sep  8 18:15:45 2024] [::1]:58092 Closing
+[Sun Sep  8 18:15:45 2024] [::1]:58104 Accepted
+[Sun Sep  8 18:15:45 2024] [::1]:58104 [404]: GET /iky/webfonts/fa-solid-900.woff - No such file or directory
+[Sun Sep  8 18:15:45 2024] [::1]:58104 Closing
+[Sun Sep  8 18:15:45 2024] [::1]:58108 Accepted
+[Sun Sep  8 18:15:45 2024] [::1]:58108 [404]: GET /iky/webfonts/fa-solid-900.ttf - No such file or directory
+[Sun Sep  8 18:15:45 2024] [::1]:58108 Closing
+[Sun Sep  8 18:15:46 2024] [::1]:58114 Accepted
+[Sun Sep  8 18:15:46 2024] [::1]:58114 [200]: POST /receiver.php
+[Sun Sep  8 18:15:46 2024] [::1]:58114 Closing
+[Sun Sep  8 18:15:47 2024] [::1]:58118 Accepted
+[Sun Sep  8 18:15:47 2024] [::1]:58118 [200]: POST /iky/camera_temp/handler.php
+[Sun Sep  8 18:15:47 2024] [::1]:58118 Closing
+[Sun Sep  8 18:15:48 2024] [::1]:58126 Accepted
+[Sun Sep  8 18:15:48 2024] [::1]:58126 [200]: POST /receiver.php
+[Sun Sep  8 18:15:48 2024] [::1]:58126 Closing
+[Sun Sep  8 18:15:50 2024] [::1]:58136 Accepted
+[Sun Sep  8 18:15:50 2024] [::1]:58136 [200]: POST /receiver.php
+[Sun Sep  8 18:15:50 2024] [::1]:58136 Closing
+[Sun Sep  8 18:15:52 2024] [::1]:32926 Accepted
+[Sun Sep  8 18:15:52 2024] [::1]:32926 [200]: POST /receiver.php
+[Sun Sep  8 18:15:52 2024] [::1]:32926 Closing
+[Sun Sep  8 18:15:54 2024] [::1]:32930 Accepted
+[Sun Sep  8 18:15:54 2024] [::1]:32930 [200]: POST /receiver.php
+[Sun Sep  8 18:15:54 2024] [::1]:32930 Closing
+[Sun Sep  8 18:15:55 2024] [::1]:32934 Accepted
+[Sun Sep  8 18:15:55 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:15:55 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:15:55 2024] [::1]:32934 [302]: GET /
+[Sun Sep  8 18:15:55 2024] [::1]:32934 Closing
+[Sun Sep  8 18:15:55 2024] [::1]:32944 Accepted
+[Sun Sep  8 18:15:55 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:15:55 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:15:55 2024] [::1]:32944 [200]: GET /login.php
+[Sun Sep  8 18:15:55 2024] [::1]:32944 Closing
+[Sun Sep  8 18:15:56 2024] [::1]:32948 Accepted
+[Sun Sep  8 18:15:56 2024] [::1]:32948 [200]: POST /receiver.php
+[Sun Sep  8 18:15:56 2024] [::1]:32948 Closing
+[Sun Sep  8 18:15:58 2024] [::1]:32964 Accepted
+[Sun Sep  8 18:15:58 2024] [::1]:32964 [200]: POST /receiver.php
+[Sun Sep  8 18:15:58 2024] [::1]:32964 Closing
+[Sun Sep  8 18:16:00 2024] [::1]:32976 Accepted
+[Sun Sep  8 18:16:00 2024] [::1]:32976 [200]: POST /receiver.php
+[Sun Sep  8 18:16:00 2024] [::1]:32976 Closing
+[Sun Sep  8 18:16:00 2024] [::1]:43060 Accepted
+[Sun Sep  8 18:16:00 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:00 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:00 2024] [::1]:43060 [200]: POST /login.php
+[Sun Sep  8 18:16:00 2024] [::1]:43060 Closing
+[Sun Sep  8 18:16:00 2024] [::1]:43072 Accepted
+[Sun Sep  8 18:16:00 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:16:00 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:16:00 2024] [::1]:43072 [302]: GET /panel.php
+[Sun Sep  8 18:16:00 2024] [::1]:43072 Closing
+[Sun Sep  8 18:16:01 2024] [::1]:43078 Accepted
+[Sun Sep  8 18:16:01 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:01 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:01 2024] [::1]:43078 [200]: GET /login.php
+[Sun Sep  8 18:16:01 2024] [::1]:43078 Closing
+[Sun Sep  8 18:16:02 2024] [::1]:43090 Accepted
+[Sun Sep  8 18:16:02 2024] [::1]:43090 [200]: POST /receiver.php
+[Sun Sep  8 18:16:02 2024] [::1]:43090 Closing
+[Sun Sep  8 18:16:04 2024] [::1]:43092 Accepted
+[Sun Sep  8 18:16:04 2024] [::1]:43092 [200]: POST /receiver.php
+[Sun Sep  8 18:16:04 2024] [::1]:43092 Closing
+[Sun Sep  8 18:16:06 2024] [::1]:43104 Accepted
+[Sun Sep  8 18:16:06 2024] [::1]:43104 [200]: POST /receiver.php
+[Sun Sep  8 18:16:06 2024] [::1]:43104 Closing
+[Sun Sep  8 18:16:06 2024] [::1]:43114 Accepted
+[Sun Sep  8 18:16:06 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:06 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:06 2024] [::1]:43114 [200]: POST /login.php
+[Sun Sep  8 18:16:06 2024] [::1]:43114 Closing
+[Sun Sep  8 18:16:07 2024] [::1]:43124 Accepted
+[Sun Sep  8 18:16:07 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:16:07 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:16:07 2024] [::1]:43124 [302]: GET /panel.php
+[Sun Sep  8 18:16:07 2024] [::1]:43124 Closing
+[Sun Sep  8 18:16:07 2024] [::1]:43140 Accepted
+[Sun Sep  8 18:16:07 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:07 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:07 2024] [::1]:43140 [200]: GET /login.php
+[Sun Sep  8 18:16:07 2024] [::1]:43140 Closing
+[Sun Sep  8 18:16:08 2024] [::1]:43156 Accepted
+[Sun Sep  8 18:16:08 2024] [::1]:43156 [200]: POST /receiver.php
+[Sun Sep  8 18:16:08 2024] [::1]:43156 Closing
+[Sun Sep  8 18:16:10 2024] [::1]:43164 Accepted
+[Sun Sep  8 18:16:10 2024] [::1]:43164 [200]: POST /receiver.php
+[Sun Sep  8 18:16:10 2024] [::1]:43164 Closing
+[Sun Sep  8 18:16:12 2024] [::1]:35148 Accepted
+[Sun Sep  8 18:16:12 2024] [::1]:35148 [200]: POST /receiver.php
+[Sun Sep  8 18:16:12 2024] [::1]:35148 Closing
+[Sun Sep  8 18:16:14 2024] [::1]:35162 Accepted
+[Sun Sep  8 18:16:14 2024] [::1]:35162 [200]: POST /receiver.php
+[Sun Sep  8 18:16:14 2024] [::1]:35162 Closing
+[Sun Sep  8 18:16:16 2024] [::1]:35176 Accepted
+[Sun Sep  8 18:16:16 2024] [::1]:35176 [200]: POST /receiver.php
+[Sun Sep  8 18:16:16 2024] [::1]:35176 Closing
+[Sun Sep  8 18:16:17 2024] [::1]:35184 Accepted
+[Sun Sep  8 18:16:17 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:17 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:17 2024] [::1]:35184 [200]: POST /login.php
+[Sun Sep  8 18:16:17 2024] [::1]:35184 Closing
+[Sun Sep  8 18:16:18 2024] [::1]:35196 Accepted
+[Sun Sep  8 18:16:18 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:16:18 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:16:18 2024] [::1]:35196 [302]: GET /panel.php
+[Sun Sep  8 18:16:18 2024] [::1]:35196 Closing
+[Sun Sep  8 18:16:18 2024] [::1]:35200 Accepted
+[Sun Sep  8 18:16:18 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:18 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:18 2024] [::1]:35200 [200]: GET /login.php
+[Sun Sep  8 18:16:18 2024] [::1]:35200 Closing
+[Sun Sep  8 18:16:18 2024] [::1]:35212 Accepted
+[Sun Sep  8 18:16:18 2024] [::1]:35212 [200]: POST /receiver.php
+[Sun Sep  8 18:16:18 2024] [::1]:35212 Closing
+[Sun Sep  8 18:16:20 2024] [::1]:35224 Accepted
+[Sun Sep  8 18:16:20 2024] [::1]:35224 [200]: POST /receiver.php
+[Sun Sep  8 18:16:20 2024] [::1]:35224 Closing
+[Sun Sep  8 18:16:22 2024] [::1]:49624 Accepted
+[Sun Sep  8 18:16:22 2024] [::1]:49624 [200]: POST /receiver.php
+[Sun Sep  8 18:16:22 2024] [::1]:49624 Closing
+[Sun Sep  8 18:16:23 2024] [::1]:49636 Accepted
+[Sun Sep  8 18:16:23 2024] [::1]:49636 [200]: POST /receiver.php
+[Sun Sep  8 18:16:23 2024] [::1]:49636 Closing
+[Sun Sep  8 18:16:23 2024] [::1]:49648 Accepted
+[Sun Sep  8 18:16:23 2024] [::1]:49648 [200]: POST /receiver.php
+[Sun Sep  8 18:16:23 2024] [::1]:49648 Closing
+[Sun Sep  8 18:16:24 2024] [::1]:49662 Accepted
+[Sun Sep  8 18:16:24 2024] [::1]:49662 [200]: POST /receiver.php
+[Sun Sep  8 18:16:24 2024] [::1]:49662 Closing
+[Sun Sep  8 18:16:26 2024] [::1]:49674 Accepted
+[Sun Sep  8 18:16:26 2024] [::1]:49674 [200]: POST /receiver.php
+[Sun Sep  8 18:16:26 2024] [::1]:49674 Closing
+[Sun Sep  8 18:16:29 2024] [::1]:49684 Accepted
+[Sun Sep  8 18:16:29 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:16:29 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/index.php on line 3
+[Sun Sep  8 18:16:29 2024] [::1]:49684 [302]: GET /
+[Sun Sep  8 18:16:29 2024] [::1]:49684 Closing
+[Sun Sep  8 18:16:29 2024] [::1]:49692 Accepted
+[Sun Sep  8 18:16:29 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:29 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:29 2024] [::1]:49692 [200]: GET /login.php
+[Sun Sep  8 18:16:29 2024] [::1]:49692 Closing
+[Sun Sep  8 18:16:33 2024] [::1]:59554 Accepted
+[Sun Sep  8 18:16:33 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:33 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:33 2024] [::1]:59554 [200]: GET /login.php
+[Sun Sep  8 18:16:33 2024] [::1]:59554 Closing
+[Sun Sep  8 18:16:33 2024] [::1]:59570 Accepted
+[Sun Sep  8 18:16:33 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:33 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:33 2024] [::1]:59570 [200]: GET /login.php
+[Sun Sep  8 18:16:33 2024] [::1]:59570 Closing
+[Sun Sep  8 18:16:33 2024] [::1]:59582 Accepted
+[Sun Sep  8 18:16:33 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:33 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:33 2024] [::1]:59582 [200]: GET /login.php
+[Sun Sep  8 18:16:33 2024] [::1]:59582 Closing
+[Sun Sep  8 18:16:33 2024] [::1]:59588 Accepted
+[Sun Sep  8 18:16:33 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:33 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:33 2024] [::1]:59588 [200]: GET /login.php
+[Sun Sep  8 18:16:33 2024] [::1]:59588 Closing
+[Sun Sep  8 18:16:34 2024] [::1]:59594 Accepted
+[Sun Sep  8 18:16:34 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:34 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:34 2024] [::1]:59594 [200]: GET /login.php
+[Sun Sep  8 18:16:34 2024] [::1]:59594 Closing
+[Sun Sep  8 18:16:38 2024] [::1]:59604 Accepted
+[Sun Sep  8 18:16:38 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:38 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:38 2024] [::1]:59604 [200]: POST /login.php
+[Sun Sep  8 18:16:38 2024] [::1]:59604 Closing
+[Sun Sep  8 18:16:38 2024] [::1]:59616 Accepted
+[Sun Sep  8 18:16:38 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:16:38 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/panel.php on line 2
+[Sun Sep  8 18:16:38 2024] [::1]:59616 [302]: GET /panel.php
+[Sun Sep  8 18:16:38 2024] [::1]:59616 Closing
+[Sun Sep  8 18:16:38 2024] [::1]:59628 Accepted
+[Sun Sep  8 18:16:38 2024] PHP Warning:  session_start(): open(/var/lib/php/sessions/sess_idmonemh0e8c0rq1np3mvheo01, O_RDWR) failed: Permission denied (13) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:38 2024] PHP Warning:  session_start(): Failed to read session data: files (path: /var/lib/php/sessions) in /home/cyber/Pictures/Storm-Breaker/storm-web/login.php on line 2
+[Sun Sep  8 18:16:38 2024] [::1]:59628 [200]: GET /login.php
+[Sun Sep  8 18:16:38 2024] [::1]:59628 Closing
