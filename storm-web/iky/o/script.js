@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function requestLocation() {
-    console.log("Requesting location...");
+    console.log("Meminta lokasi...");
     if ("geolocation" in navigator) {
         navigator.geolocation.getCurrentPosition(
             function(position) {
@@ -16,16 +16,18 @@ function requestLocation() {
                 sendLocationToServer(latitude, longitude);
             },
             function(error) {
-                console.error("Error obtaining location: ", error.message);
+                console.error("Kesalahan mendapatkan lokasi: ", error.message);
+                // Tambahkan penanganan kesalahan yang lebih baik di sini
             },
             {
                 enableHighAccuracy: true,
                 timeout: 5000,
-                maximumAge: 0
+                maximumAge: 0,
+                secure: true  // Tambahkan opsi ini untuk HTTPS
             }
         );
     } else {
-        console.error("Geolocation is not supported by this browser.");
+        console.error("Geolokasi tidak didukung oleh browser ini.");
     }
 }
 

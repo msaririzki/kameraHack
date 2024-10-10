@@ -1,6 +1,10 @@
 <?php
 error_log("Handler.php accessed");
 
+header("Access-Control-Allow-Origin: https://domain-anda.com");
+header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
+header("Access-Control-Allow-Headers: Content-Type");
+
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
     error_log("POST request received");
     error_log("POST data: " . print_r($_POST, true));
